@@ -1,1 +1,0 @@
-{"version":3,"file":"Coach.js","sourceRoot":"","sources":["../../../src/domain/models/Coach.ts"],"names":[],"mappings":";;;AAAA,uDAAoD;AAGpD,MAAa,KAAM,SAAQ,eAAM;IAE/B,YAAmB,YAMlB,EAAS,SAET,EAAS,iBAMT,EACQ,cAGN;QAED,KAAK,CAAC,YAAY,CAAC,CAAC;QApBH,iBAAY,GAAZ,YAAY,CAM9B;QAAS,cAAS,GAAT,SAAS,CAElB;QAAS,sBAAiB,GAAjB,iBAAiB,CAM1B;QACQ,mBAAc,GAAd,cAAc,CAGpB;IAGH,CAAC;CACF;AAxBD,sBAwBC"}
