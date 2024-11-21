@@ -1,7 +1,8 @@
+import dotenv from "dotenv";
+dotenv.config(); // Carga las variables de .env
+
 import mysql from "mysql2/promise";
 import config from "config";
-
-
 
 export const configOption = {
     host: config.get<string>("HOST"),
@@ -10,8 +11,8 @@ export const configOption = {
     database: config.get<string>("DATABASE"),
     port: config.get<number>("DB_PORT"),
     multipleStatements: true
-
 };
+
 export const getPoolConnection = () => {
     const connection = mysql.createPool(configOption);
     return connection;

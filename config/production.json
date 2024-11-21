@@ -1,0 +1,7 @@
+{
+    "HOST": "${env:HOST}",
+    "USER": "${env:USER}",
+    "PASSWORD": "${env:PASSWORD}",
+    "DATABASE": "${env:DATABASE}",
+    "DB_PORT": "${env:DB_PORT}"
+}

@@ -30,3 +30,4 @@ const createServer = async () => {
 createServer();
 
 
+console.log(configOption);
