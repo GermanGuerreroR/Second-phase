@@ -1,0 +1,7 @@
+{
+    "HOST": "localhost",
+    "DB_PORT": 3306,
+    "USER": "root",
+    "PASSWORD": "german950901",
+    "DATABASE": "gym_management_main_service"
+}
