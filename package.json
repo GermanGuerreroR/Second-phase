@@ -26,6 +26,7 @@
   "devDependencies": {
     "@types/config": "^3.3.5",
     "@types/node": "^22.9.1",
-    "nodemon": "^3.1.7"
+    "nodemon": "^3.1.7",
+    "typescript": "^5.6.3"
   }
 }
