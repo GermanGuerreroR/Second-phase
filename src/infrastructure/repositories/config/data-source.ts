@@ -17,3 +17,5 @@ export const getPoolConnection = () => {
     const connection = mysql.createPool(configOption);
     return connection;
 };
+
+console.log(config.get<string>("HOST"));

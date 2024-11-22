@@ -1,7 +1,7 @@
 {
-    "HOST": "${env:HOST}",
-    "USER": "${env:USER}",
-    "PASSWORD": "${env:PASSWORD}",
-    "DATABASE": "${env:DATABASE}",
-    "DB_PORT": "${env:DB_PORT}"
+    "HOST": "mysql.railway.internal",
+    "DB_PORT": 3306,
+    "USER": "root",
+    "PASSWORD": "JDnIXIAHfBndLDNQZgjEcVfcNTacoFZG",
+    "DATABASE": "railway"
 }
