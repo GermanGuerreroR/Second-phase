@@ -30,4 +30,5 @@ const createServer = async () => {
 createServer();
 
 
-console.log(configOption);
+console.log(process.env.HOST);
+console.log(process.env.PORT);

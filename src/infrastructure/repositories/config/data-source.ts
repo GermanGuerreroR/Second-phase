@@ -1,5 +1,5 @@
 import dotenv from "dotenv";
-dotenv.config(); // Carga las variables de .env
+dotenv.config();
 
 import mysql from "mysql2/promise";
 import config from "config";
